@@ -1,0 +1,48 @@
+---
+title: "Phùng Nguyên Phương (Sam Phung)"
+subtitle: "Nghiên cứu Xã hội | Phát triển Cộng đồng "
+image: profile.png
+about: # https://quarto.org/docs/websites/website-about.html
+  template: solana
+  image-shape: round
+  links:
+    - icon: envelope-at-fill
+      text: samphung.work@gmail.com
+      href: mailto:samphung.work@gmail.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/sam-p-4329b5125/
+    - icon: github
+      text: Github
+      href: https://github.com/sammieephung
+---
+
+{{< lipsum 1 >}}
+
+## Học vấn
+
+Cử nhân Danh dự, Khoa học Xã hội Liên ngành\
+*Đại học RMIT* (Australia) \| 03/2025 - 12/2025
+
+Cử nhân Khoa học Ứng dụng (Tâm lý học)\
+*Đại học RMIT* (Việt Nam & Australia) \| 10/2021 - 12/2024
+
+## Kinh nghiệm
+
+Thành viên Nhóm Tiếp nhận (Access & Intake Team Member)\
+[*Asylum Seeker Resource Centre*](https://asrc.org.au/) \| 03/2025 - 07/2026
+
+Điều phối viên Nhóm Hỗ trợ (Support Group Facilitator)\
+[*Anxiety Recovery Centre Victoria*](https://arcvic.org.au/) \| 09/2024 - 06/2026
+
+Tình nguyện viên Hỗ trợ Đồng đẳng (Peer Supporter)\
+[*RMIT University Student Union*](https://rusu.rmit.edu.au/compass/) \| 03/2024 - 10/2025
+
+## Project
+
+1.  Chênh lệch Tiền lương giữa Nam và Nữ: Thực trạng & Một số Yếu tố Liên quan\
+    Phân tích và trực quan dữ liệu sử dụng R\
+    Dữ liệu mở từ nền tảng Glassdoor và được chia sẻ tại [Kaggle](https://www.kaggle.com/datasets/nilimajauhari/glassdoor-analyze-gender-pay-gap)
+
+2.  Title here\
+    Dữ liệu mở từ [Khảo sát Sức khỏe và Dinh dưỡng Quốc gia](https://wwwn.cdc.gov/nchs/nhanes/Default.aspx) (*National Health and Nutrition Examination Survey*) thực hiện bởi Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh Hoa Kì (*Center for Disease Control and Prevention*).

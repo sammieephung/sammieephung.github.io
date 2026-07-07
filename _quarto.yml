@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Home"
+  open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
+  page-footer: "Made with ❤️ and Quarto"
+  navbar:
+    title: Sam Phung
+    left:
+      - text: CV
+        href: https://drive.google.com/drive/my-drive
+      - text: Project
+    tools: 
+      - icon: envelope-at-fill
+        href: mailto:samphung.work@gmail.com
+      - icon: linkedin
+        href: https://www.linkedin.com/in/sam-p-4329b5125/
+      - icon: github
+        href: https://github.com/sammieephung
+ 
+      
+format:
+  html:
+    page-layout: full
+    fontsize: 20px
+    linkcolor: black
+    theme: [cosmo, styles.scss]
+
